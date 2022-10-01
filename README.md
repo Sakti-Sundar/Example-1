@@ -16,3 +16,6 @@
 # git remote add origin https://github.com/Sakti-Sundar/Example-1.git
 # git remote -v
 # git push origin main
+# git branch developer1
+# git branch
+# git checkout developer1
