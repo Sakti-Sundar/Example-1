@@ -14,3 +14,5 @@
 # git branch -M main
 # git branch
 # git remote add origin https://github.com/Sakti-Sundar/Example-1.git
+# git remote -v
+# git push -u origin main
