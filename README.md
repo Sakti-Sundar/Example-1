@@ -29,3 +29,5 @@
 # git status
 # git add .
 # git commit -m "In deveopler2 branch"
+# git checkout main
+# git merge developer2
