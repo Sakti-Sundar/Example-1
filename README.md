@@ -1,4 +1,4 @@
-## This is the Git tutorials
+## This is the amazing Git tutorials
 # git --version
 # git init
 # git config --global user.name "Sakti-Sundar"
@@ -19,3 +19,13 @@
 # git branch developer1
 # git branch
 # git checkout developer1
+# git checkout main 
+# git merge developer1
+# git push origin main
+# git branch developer2 
+# git branch
+# git checkout developer2
+# git branch
+# git status
+# git add .
+# git commit -m "In deveopler2 branch"
