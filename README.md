@@ -10,3 +10,7 @@
 # git add .
 # git status
 # git commit -m "first commit"
+# git branch 
+# git branch -M main
+# git branch
+# git remote add origin https://github.com/Sakti-Sundar/Example-1.git
